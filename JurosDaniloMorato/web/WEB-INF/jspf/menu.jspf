@@ -1,0 +1,11 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+
+<nav>
+    <ul>
+        <li><button style="margin: 10px;" onclick="window.location.href='index.jsp'">Início</button></li>
+        <li><button style="margin: 10px;" onclick="window.location.href='juros-simples.jsp'">Juros Simples</button></li>
+        <li><button style="margin: 10px;" onclick="window.location.href='juros-composto.jsp'">Juros Compostos</button></li>
+    </ul>
+</nav>
+
